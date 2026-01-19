@@ -60,6 +60,6 @@ yolo-live-object-detection/
    ```bash
    jupyter notebook notebooks/Yolo_Live_Detection.ipynb
 
-3.Run all cells to start live detection
+3. **Run all cells to start live detection**
 
 
