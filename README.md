@@ -50,12 +50,14 @@ yolo-live-object-detection/
 
 ## ▶️ How to Run
 
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-'''
+1.## ▶️ How to Run
 
-2.Open the notebook:
-jupyter notebook notebooks/Yolo_Live_Detection.ipynb
+1. **Install dependencies**
 
-3.jupyter notebook notebooks/Yolo_Live_Detection.ipynb
+   ```bash
+   pip install -r requirements.txt
+
+2.Open the notebook
+  jupyter notebook notebooks/Yolo_Live_Detection.ipynb
+
+3.Run all cells for live detection
